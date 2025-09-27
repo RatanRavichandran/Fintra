@@ -249,7 +249,10 @@ We welcome contributions to improve! Areas where we need help:
 - **Documentation**: Enhanced guides and tutorials
 - **Localization**: Support for regional languages
 
-This project was developed during the UIP Hackathon and is available for educational and research purposes.
+This project was developed during the UIP Hackathon.
+
+## Contributors
+Sayli Jain, Sri Bharath Sharma P, AV Saipriya
 
 ## Support
 
