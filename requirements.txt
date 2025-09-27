@@ -1,0 +1,16 @@
+streamlit>=1.36
+numpy
+pandas
+plotly
+openai>=1.35
+python-dotenv
+agno
+google-search-results
+pydantic
+markdown
+python-dateutil
+tiktoken
+crawl4ai
+beautifulsoup4
+requests
+selenium

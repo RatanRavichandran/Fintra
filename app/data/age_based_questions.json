@@ -1,0 +1,287 @@
+{
+    "0-9": [
+        {
+            "text": "Do you have a piggy bank or place to save money?",
+            "type": "multiple-choice",
+            "options": ["Yes", "No", "I used to", "I want one"],
+            "section": "Savings Basics",
+            "required": "true"
+        },
+        {
+            "text": "What would you like to save money for?",
+            "type": "multiple-choice",
+            "options": ["A toy", "A game", "A special trip", "A gift for someone", "Something else"],
+            "section": "Savings Goals",
+            "required": "true"
+        },
+        {
+            "text": "Do you know what these coins are worth?",
+            "type": "rating",
+            "options": ["Not at all", "A little bit", "Some of them", "Most of them", "All of them"],
+            "section": "Money Basics",
+            "required": "true"
+        },
+        {
+            "text": "What do you do when you get money as a gift?",
+            "type": "multiple-choice",
+            "options": ["Spend it right away", "Save some and spend some", "Save all of it", "Give it to my parents", "I've never gotten money as a gift"],
+            "section": "Money Habits",
+            "required": "true"
+        },
+        {
+            "text": "What would you like to learn about money?",
+            "type": "text",
+            "section": "Financial Interest",
+            "required": "false"
+        }
+    ],
+    "10-20": [
+        {
+            "text": "How would you rate your understanding of saving money?",
+            "type": "rating",
+            "options": ["Very Poor", "Poor", "Average", "Good", "Excellent"],
+            "section": "Financial Knowledge",
+            "required": "true"
+        },
+        {
+            "text": "What is your primary financial goal right now?",
+            "type": "multiple-choice",
+            "options": ["Save for education", "Buy something I want", "Help my family", "Start investing", "I don't have any goals yet"],
+            "section": "Financial Goals",
+            "required": "true"
+        },
+        {
+            "text": "What do you know about budgeting?",
+            "type": "text",
+            "section": "Financial Knowledge",
+            "required": "false"
+        },
+        {
+            "text": "How often do you save money?",
+            "type": "multiple-choice",
+            "options": ["Never", "Rarely", "Sometimes", "Often", "Always"],
+            "section": "Savings Habits",
+            "required": "true"
+        },
+        {
+            "text": "What would you like to learn about money management?",
+            "type": "text",
+            "section": "Financial Knowledge",
+            "required": "false"
+        }
+    ],
+    "21-30": [
+        {
+            "text": "How would you rate your understanding of credit scores?",
+            "type": "rating",
+            "options": ["Very Poor", "Poor", "Average", "Good", "Excellent"],
+            "section": "Financial Knowledge",
+            "required": "true"
+        },
+        {
+            "text": "Which of these financial products do you currently use?",
+            "type": "toggle",
+            "options": ["Credit card", "Student loans", "Savings account", "Investment account", "None of these"],
+            "section": "Financial Products",
+            "required": "true"
+        },
+        {
+            "text": "What are your biggest financial challenges right now?",
+            "type": "text",
+            "section": "Financial Challenges",
+            "required": "false"
+        },
+        {
+            "text": "How comfortable are you with investing?",
+            "type": "rating",
+            "options": ["Very Uncomfortable", "Uncomfortable", "Neutral", "Comfortable", "Very Comfortable"],
+            "section": "Investment Knowledge",
+            "required": "true"
+        },
+        {
+            "text": "What financial goals are you working towards?",
+            "type": "multiple-choice",
+            "options": ["Paying off debt", "Saving for a home", "Building emergency fund", "Retirement planning", "Career development"],
+            "section": "Financial Goals",
+            "required": "true"
+        }
+    ],
+    "31-40": [
+        {
+            "text": "How would you rate your retirement planning progress?",
+            "type": "rating",
+            "options": ["Very Poor", "Poor", "Average", "Good", "Excellent"],
+            "section": "Retirement Planning",
+            "required": "true"
+        },
+        {
+            "text": "Which investment vehicles are you currently using?",
+            "type": "multiple-choice",
+            "options": ["401(k)/IRA", "Stocks/ETFs", "Real Estate", "Bonds", "None/Not sure"],
+            "section": "Investments",
+            "required": "true"
+        },
+        {
+            "text": "What are your thoughts on mortgage options and home ownership?",
+            "type": "text",
+            "section": "Housing",
+            "required": "false"
+        },
+        {
+            "text": "How do you balance saving for retirement vs. other financial goals?",
+            "type": "text",
+            "section": "Financial Planning",
+            "required": "false"
+        },
+        {
+            "text": "What aspect of financial planning do you find most challenging?",
+            "type": "multiple-choice",
+            "options": ["Tax planning", "Investment decisions", "Insurance coverage", "Estate planning", "Debt management"],
+            "section": "Financial Challenges",
+            "required": "true"
+        }
+    ],
+    "41-50": [
+        {
+            "text": "How prepared do you feel for your children's education costs?",
+            "type": "rating",
+            "options": ["Not at all prepared", "Slightly prepared", "Moderately prepared", "Well prepared", "Very well prepared"],
+            "section": "Family Planning",
+            "required": "true"
+        },
+        {
+            "text": "Which areas of financial planning have you recently reviewed?",
+            "type": "multiple-choice",
+            "options": ["Insurance coverage", "Investment allocation", "Tax strategy", "Estate planning", "Retirement projections"],
+            "section": "Financial Planning",
+            "required": "true"
+        },
+        {
+            "text": "How are you balancing saving for retirement and other financial responsibilities?",
+            "type": "text",
+            "section": "Financial Priorities",
+            "required": "false"
+        },
+        {
+            "text": "What steps are you taking to maximize your peak earning years?",
+            "type": "multiple-choice",
+            "options": ["Increasing retirement contributions", "Paying down debt", "Building passive income", "Career advancement", "Supporting family members"],
+            "section": "Wealth Building",
+            "required": "true"
+        },
+        {
+            "text": "How would you rate your confidence in your overall financial plan?",
+            "type": "rating",
+            "options": ["Not at all confident", "Slightly confident", "Moderately confident", "Confident", "Very confident"],
+            "section": "Financial Confidence",
+            "required": "true"
+        }
+    ],
+    "51-60": [
+        {
+            "text": "How many years until your planned retirement?",
+            "type": "multiple-choice",
+            "options": ["Already retired", "1-5 years", "6-10 years", "11-15 years", "More than 15 years"],
+            "section": "Retirement Timeline",
+            "required": "true"
+        },
+        {
+            "text": "Have you calculated your expected retirement income needs?",
+            "type": "multiple-choice",
+            "options": ["Yes, in detail", "Yes, roughly", "Not yet", "I'm not sure how", "I don't plan to retire"],
+            "section": "Retirement Planning",
+            "required": "true"
+        },
+        {
+            "text": "What concerns you most about the transition to retirement?",
+            "type": "text",
+            "section": "Retirement Concerns",
+            "required": "false"
+        },
+        {
+            "text": "How are you adjusting your investment strategy as retirement approaches?",
+            "type": "multiple-choice",
+            "options": ["Becoming more conservative", "Maintaining current allocation", "Increasing risk for growth", "Focusing on income generation", "I haven't adjusted my strategy"],
+            "section": "Investment Strategy",
+            "required": "true"
+        },
+        {
+            "text": "How prepared are you for potential healthcare costs in retirement?",
+            "type": "rating",
+            "options": ["Not at all prepared", "Slightly prepared", "Moderately prepared", "Well prepared", "Very well prepared"],
+            "section": "Healthcare Planning",
+            "required": "true"
+        }
+    ],
+    "61-70": [
+        {
+            "text": "What is your current retirement status?",
+            "type": "multiple-choice",
+            "options": ["Fully retired", "Semi-retired", "Working full-time", "Working part-time", "Other"],
+            "section": "Retirement Status",
+            "required": "true"
+        },
+        {
+            "text": "How satisfied are you with your retirement income strategy?",
+            "type": "rating",
+            "options": ["Very dissatisfied", "Dissatisfied", "Neutral", "Satisfied", "Very satisfied"],
+            "section": "Retirement Income",
+            "required": "true"
+        },
+        {
+            "text": "What estate planning measures have you implemented?",
+            "type": "multiple-choice",
+            "options": ["Complete estate plan", "Basic will only", "Designated beneficiaries", "Planning in progress", "No planning yet"],
+            "section": "Estate Planning",
+            "required": "true"
+        },
+        {
+            "text": "How are you managing healthcare and long-term care planning?",
+            "type": "text",
+            "section": "Healthcare Planning",
+            "required": "false"
+        },
+        {
+            "text": "What financial legacy would you like to leave?",
+            "type": "multiple-choice",
+            "options": ["Support children/grandchildren", "Charitable giving", "Educational funding", "No specific plans", "I plan to spend it all"],
+            "section": "Legacy Planning",
+            "required": "true"
+        }
+    ],
+    "70+": [
+        {
+            "text": "How would you rate your financial security in retirement?",
+            "type": "rating",
+            "options": ["Not at all secure", "Somewhat insecure", "Adequate", "Secure", "Very secure"],
+            "section": "Retirement Security",
+            "required": "true"
+        },
+        {
+            "text": "Which of these financial products are you currently utilizing?",
+            "type": "multiple-choice",
+            "options": ["Annuities", "Long-term care insurance", "Reverse mortgage", "Trusts", "None of these"],
+            "section": "Financial Products",
+            "required": "true"
+        },
+        {
+            "text": "How are you handling required minimum distributions from retirement accounts?",
+            "type": "text",
+            "section": "Tax Planning",
+            "required": "false"
+        },
+        {
+            "text": "What arrangements have you made for potential care needs?",
+            "type": "multiple-choice",
+            "options": ["Long-term care insurance", "Family caregiving plans", "Retirement community", "In-home care budget", "No specific plans yet"],
+            "section": "Care Planning",
+            "required": "true"
+        },
+        {
+            "text": "What financial advice would you give to the younger generations in your family?",
+            "type": "text",
+            "section": "Financial Wisdom",
+            "required": "false"
+        }
+    ]
+}

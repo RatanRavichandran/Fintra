@@ -1,0 +1,75 @@
+﻿Age Specific 
+- Understanding of Credit Scores: Average
+- Financial Products Used: Student loan, Savings account
+- Biggest Financial Challenges: Student loan repayment, managing expenses with new income, understanding tax-saving options
+- Comfort with Investing: Low
+- Financial Goals: Build emergency fund, start investing, repay student loan, support parents
+
+
+Personal Information
+- Full Name: Rahul
+- Age: 22
+- Marital Status: Single
+- Number of Dependents: 0
+- Risk Tolerance: 4
+- Target Retirement Age: 65
+- Investment for Retirement per month: 2000
+
+
+Income Information
+- Monthly Primary Income (₹): 15000
+- Monthly Secondary Income (₹): 0
+- Other Monthly Income (₹): 0
+- Income Stability: Stable
+
+
+Monthly Expenses
+- Housing (Rent/EMI) (₹): 0
+- Utilities (Electricity/Water/Gas) (₹): 500
+- Groceries (₹): 1500
+- Transportation (₹): 2000
+- Healthcare (₹): 300
+- Entertainment (₹): 500
+- Subscriptions (₹): 300
+- Other Expenses (₹): 900
+
+
+Assets
+- Cash Savings (₹): 8000
+- Equity Investments (Stocks/MFs) (₹): 0
+- EPF/PPF (₹): 0
+- Real Estate Equity (₹): None
+- Gold/Jewelry (₹): 5000
+- Other Assets (₹): 2000
+
+
+Liabilities
+- Home Loan Balance (₹): None
+- Car Loan (₹): None
+- Education Loan (₹): 400000
+- Credit Card Debt (₹): None
+- Personal Loan (₹): None
+- Other Debt (₹): None
+- Credit Card Interest Rate (%): None
+- Education Loan Interest Rate (%): 8
+- Home Loan Interest Rate (%): None
+- Home Loan Term Remaining (years): None
+
+
+Financial Goals
+- Short-Term (1-2 years): Save for laptop and motorcycle
+- Medium-Term (3-5 years): Repay education loan
+- Long-Term (5+ years): Build wealth and support parents
+  - Target Retirement Monthly Income: 50000
+
+
+Other Goals
+- Other Financial Goals: Learn financial planning and tax-saving strategies
+
+
+Other Details 
+- Monthly Income: 15000
+- Monthly Expenses: 6000
+- Monthly Savings: 9000
+- Total Assets: 15000
+- Total Debt: 400000

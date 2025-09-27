@@ -1,0 +1,269 @@
+{
+  "sections": [
+    {
+      "name": "Personal Information",
+      "questions": [
+        {
+          "text": "What is your full name?",
+          "type": "text",
+          "required": "false"
+        },
+        {
+          "text": "What is your age?",
+          "type": "number",
+          "min": 18,
+          "max": 100,
+          "required": "false"
+        },
+        {
+          "text": "What is your marital status?",
+          "type": "multiple-choice",
+          "options": ["Single", "Married", "Divorced", "Widowed"],
+          "required": "false"
+        },
+        {
+          "text": "How many dependents do you have?",
+          "type": "number",
+          "min": 0,
+          "max": 10,
+          "required": "false"
+        },
+        {
+          "text": "How would you describe your risk tolerance?",
+          "type": "rating",
+          "options": ["Very Conservative", "Conservative", "Moderate", "Aggressive", "Very Aggressive"],
+          "required": "false"
+        }
+      ]
+    },
+    {
+      "name": "Income Information",
+      "questions": [
+        {
+          "text": "What is your monthly primary income (₹)?",
+          "type": "number",
+          "min": 0,
+          "required": "false"
+        },
+        {
+          "text": "What is your monthly secondary income (₹)?",
+          "type": "number",
+          "min": 0,
+          "required": "false"
+        },
+        {
+          "text": "What is your other monthly income (₹)?",
+          "type": "number",
+          "min": 0,
+          "required": "false"
+        },
+        {
+          "text": "How would you rate your income stability?",
+          "type": "rating",
+          "options": ["Very Unstable", "Somewhat Unstable", "Neutral", "Stable", "Very Stable"],
+          "required": "false"
+        }
+      ]
+    },
+    {
+      "name": "Monthly Expenses",
+      "questions": [
+        {
+          "text": "How much do you spend on housing (Rent/EMI) monthly (₹)?",
+          "type": "number",
+          "min": 0,
+          "required": "false"
+        },
+        {
+          "text": "How much do you spend on utilities (Electricity/Water/Gas) monthly (₹)?",
+          "type": "number",
+          "min": 0,
+          "required": "false"
+        },
+        {
+          "text": "How much do you spend on groceries monthly (₹)?",
+          "type": "number",
+          "min": 0,
+          "required": "false"
+        },
+        {
+          "text": "How much do you spend on transportation monthly (₹)?",
+          "type": "number",
+          "min": 0,
+          "required": "false"
+        },
+        {
+          "text": "How much do you spend on healthcare monthly (₹)?",
+          "type": "number",
+          "min": 0,
+          "required": "false"
+        },
+        {
+          "text": "How much do you spend on entertainment monthly (₹)?",
+          "type": "number",
+          "min": 0,
+          "required": "false"
+        },
+        {
+          "text": "How much do you spend on subscriptions monthly (₹)?",
+          "type": "number",
+          "min": 0,
+          "required": "false"
+        },
+        {
+          "text": "How much do you spend on other expenses monthly (₹)?",
+          "type": "number",
+          "min": 0,
+          "required": "false"
+        }
+      ]
+    },
+    {
+      "name": "Assets",
+      "questions": [
+        {
+          "text": "What is the total amount in your cash savings (₹)?",
+          "type": "number",
+          "min": 0,
+          "required": "false"
+        },
+        {
+          "text": "What is the total value of your equity investments (Stocks/MFs) (₹)?",
+          "type": "number",
+          "min": 0,
+          "required": "false"
+        },
+        {
+          "text": "What is the total value of your EPF/PPF (₹)?",
+          "type": "number",
+          "min": 0,
+          "required": "false"
+        },
+        {
+          "text": "What is the total value of your real estate equity (₹)?",
+          "type": "number",
+          "min": 0,
+          "required": "false"
+        },
+        {
+          "text": "What is the total value of your gold/jewelry (₹)?",
+          "type": "number",
+          "min": 0,
+          "required": "false"
+        },
+        {
+          "text": "What is the total value of your other assets (₹)?",
+          "type": "number",
+          "min": 0,
+          "required": "false"
+        }
+      ]
+    },
+    {
+      "name": "Liabilities",
+      "questions": [
+        {
+          "text": "Do you have any financial liabilities or debts?",
+          "type": "multiple-choice",
+          "options": ["Yes", "No"],
+          "required": "false",
+          "subquestions": [
+            {
+              "text": "What is your home loan balance (₹)?",
+              "type": "number",
+              "min": 0,
+              "required": "false",
+              "show_if": "Yes"
+            },
+            {
+              "text": "What is your car loan balance (₹)?",
+              "type": "number",
+              "min": 0,
+              "required": "false",
+              "show_if": "Yes"
+            },
+            {
+              "text": "What is your education loan balance (₹)?",
+              "type": "number",
+              "min": 0,
+              "required": "false",
+              "show_if": "Yes"
+            },
+            {
+              "text": "What is your credit card debt (₹)?",
+              "type": "number",
+              "min": 0,
+              "required": "false",
+              "show_if": "Yes"
+            },
+            {
+              "text": "What is your personal loan balance (₹)?",
+              "type": "number",
+              "min": 0,
+              "required": "false",
+              "show_if": "Yes"
+            },
+            {
+              "text": "What is your other debt (₹)?",
+              "type": "number",
+              "min": 0,
+              "required": "false",
+              "show_if": "Yes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Financial Goals",
+      "questions": [
+        {
+          "text": "Which type of financial goals would you like to set?",
+          "type": "toggle",
+          "options": ["Short-term (1-2 years)", "Medium-term (3-5 years)", "Long-term (5+ years)","None"],
+          "required": "false",
+          "subquestions": [
+            {
+              "text": "What are your short-term financial goals (1-2 years)?",
+              "type": "text",
+              "required": "false",
+              "show_if": "Short-term (1-2 years)"
+            },
+            {
+              "text": "What are your medium-term financial goals (3-5 years)?",
+              "type": "text",
+              "required": "false",
+              "show_if": "Medium-term (3-5 years)"
+            },
+            {
+              "text": "What are your long-term financial goals (5+ years)?",
+              "type": "text",
+              "required": "false",
+              "show_if": "Long-term (5+ years)"
+            },
+            {
+              "text": "What is your target retirement age?",
+              "type": "number",
+              "min": 40,
+              "max": 80,
+              "required": "false",
+              "show_if": "Long-term (5+ years)"
+            },
+            {
+              "text": "What is your desired monthly retirement income (₹)?",
+              "type": "number",
+              "min": 0,
+              "required": "false",
+              "show_if": "Long-term (5+ years)"
+            }
+          ]
+        },
+        {
+          "text": "Do you have any other financial goals not mentioned above?",
+          "type": "text",
+          "required": "false"
+        }
+      ]
+    }
+  ]
+}

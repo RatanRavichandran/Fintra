@@ -1,0 +1,81 @@
+{
+  "personal": {
+    "name": "Rahul",
+    "age": 22,
+    "marital_status": "Single",
+    "dependents": 0,
+    "risk_tolerance": "Moderate"
+  },
+  "income": {
+    "primary_income": 15000,
+    "secondary_income": 0,
+    "other_income": 0,
+    "income_stability": "Stable"
+  },
+  "expenses": {
+    "housing": 0,
+    "utilities": 1000,
+    "groceries": 2000,
+    "transportation": 1500,
+    "healthcare": 500,
+    "entertainment": 1000,
+    "subscriptions": 500,
+    "other": 1000
+  },
+  "assets": {
+    "cash": 8000,
+    "equity": 0,
+    "epf_ppf": 0,
+    "real_estate": 0,
+    "gold": 0,
+    "other_assets": 0
+  },
+  "liabilities": {
+    "home_loan": 0,
+    "car_loan": 0,
+    "education_loan": 400000,
+    "credit_card": 0,
+    "personal_loan": 0,
+    "other_debt": 0,
+    "credit_card_interest_rate": 0,
+    "education_loan_interest_rate": 9,
+    "home_loan_interest_rate": 0,
+    "home_loan_term_remaining_years": 0
+  },
+  "goals": {
+    "emergency_fund": true,
+    "emergency_fund_amount": 0,
+    "pay_off_debt": true,
+    "vacation": false,
+    "vacation_amount": 0,
+    "down_payment": false,
+    "down_payment_amount": 0,
+    "education": false,
+    "education_amount": 0,
+    "tax_saving": true,
+    "retirement": true,
+    "retirement_age": 55,
+    "retirement_income": 70000,
+    "financial_independence": false,
+    "child_marriage": false,
+    "marriage_amount": 0,
+    "other_goal": "Support parents once stable, Learn to invest in mutual funds and tax-saving instruments, Build a strong credit history"
+  },
+  "age_specific": {
+    "credit_score_understanding": "Below Average",
+    "products_used": ["Savings account", "UPI apps", "Education loan"],
+    "financial_challenges": [
+      "Managing education loan repayment",
+      "Budgeting first salary",
+      "Understanding taxes and investments"
+    ],
+    "investing_comfort": "Neutral",
+    "financial_goals": [
+      "Start investing early",
+      "Repay student loan",
+      "Build emergency fund",
+      "Make planned purchases (laptop, bike)",
+      "Support parents"
+    ]
+  }
+}

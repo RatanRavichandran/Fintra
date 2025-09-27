@@ -1,0 +1,21 @@
+
+            # Basic Financial Advice
+            
+            ## Budgeting
+            Create a monthly budget that tracks income and expenses. Aim to save at least 20% of your income.
+            
+            ## Emergency Fund
+            Build an emergency fund that covers 3-6 months of expenses. Keep this in a liquid, easily accessible account.
+            
+            ## Debt Management
+            Pay off high-interest debt first, such as credit cards. Consider the debt avalanche or debt snowball methods.
+            
+            ## Investments
+            For long-term goals, consider investing in a diversified portfolio of stocks and bonds. In India, options include mutual funds, PPF, NPS, and ELSS for tax benefits.
+            
+            ## Tax Planning
+            Utilize Section 80C deductions through investments in PPF, ELSS, and insurance premiums. Consider Section 80D for health insurance premiums.
+            
+            ## Retirement Planning
+            Start early for retirement planning. NPS and EPF are good options in India. Aim to save at least 15% of your income for retirement.
+            
